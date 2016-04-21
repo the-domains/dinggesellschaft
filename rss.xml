@@ -4,14 +4,14 @@
         <description><![CDATA[Ding Gesellschaft]]></description>
         <link>https://thegrid.ai/dinggesellschaft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 15:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 15:08:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dinggesellschaft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting started with Arduino]]></title>
             <description><![CDATA[<article><h1>Getting started with Arduino</h1><p>Arduino is cheap embedded platform based on the Atmel. It's good to build devices for analog sensoring, controlling electric devices or even build robots. The tools I use to program the Arduino are NeoVim, platformio and GNU Make.</p></article>]]></description>
             <link>https://thegrid.ai/dinggesellschaft/getting-started-with-arduino/index.html</link>
             <guid isPermaLink="false">ca676d85-f044-4511-bd1e-0f0030818a2f</guid>
-            <pubDate>Thu, 21 Apr 2016 15:04:40 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 15:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
