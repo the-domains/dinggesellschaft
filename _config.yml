@@ -1,0 +1,28 @@
+name: Ben Rösler
+favicon: null
+layout_spectrum: 0.3507862917613238
+typography_spectrum: 0.8558172062039375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.25062405806966126
+  lightness: 0.7400909825228155
+  saturation: 0.7435632008127868
+  rhythmicContrast: 0.6046722021419555
+purpose: []
