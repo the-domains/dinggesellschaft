@@ -1,4 +1,4 @@
-name: Ben Rösler
+name: Ding Gesellschaft
 favicon: null
 layout_spectrum: 0.3507862917613238
 typography_spectrum: 0.8558172062039375
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.25062405806966126
+  brandStrength: 0
   lightness: 0.7400909825228155
   saturation: 0.7435632008127868
   rhythmicContrast: 0.6046722021419555
