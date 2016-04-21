@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ding Gesellschaft]]></title>
+        <description><![CDATA[Ding Gesellschaft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 14:45:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting started with Arduino]]></title>
+            <description><![CDATA[<article><h1>Getting started with Arduino</h1><p>Arduino is cheap embedded platform based on the Atmel. It's good to build devices for analog sensoring, controlling electric devices or even build robots. The tools I use to program the Arduino are NeoVim, platformio and GNU Make.</p></article>]]></description>
+            <link>undefinedgetting-started-with-arduino/index.html</link>
+            <guid isPermaLink="false">ca676d85-f044-4511-bd1e-0f0030818a2f</guid>
+            <pubDate>Thu, 21 Apr 2016 14:44:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
